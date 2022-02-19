@@ -1,10 +1,10 @@
-c1 - yes
+c1 - no
 c2 - yes
-c3 - yes
+c3 - no
 c4 - yes
-c5 - yes
-c6 - no
+c5 - no
+c6 - yes
 c7 - no
-c8 - no
+c8 - yes
 c9 - no
-c10 - no
+c10 - yes
